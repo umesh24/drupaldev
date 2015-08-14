@@ -1,0 +1,13 @@
+name = Views Calendar 
+description = Makes a view to be displayed as a Calendar using jQuery calendar plugin
+core = 7.x
+package = Views Calendar
+dependencies[] = views
+dependencies[] = date
+
+files[] = tests/calendar.test
+
+stylesheets[all][] = css/calendar.css
+scripts[] = js/calendar.js
+
+configure = admin/config/development/views-calendar/

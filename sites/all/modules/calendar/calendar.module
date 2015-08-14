@@ -1,0 +1,8 @@
+<?php
+/**
+ * @file
+ * This is jQuery calendar for Drupal Views which takes data from view fields and displays them as a calendar.
+ * 
+ * @author Umesh Patil Drupal user ID 2295012
+ */
+
